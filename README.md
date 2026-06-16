@@ -1,2 +1,3 @@
 # gh-achievements
-Sandbox repo for GitHub workflow experiments (PRs, issues, CI).
+
+Sandbox repository for experimenting with GitHub workflows: pull requests, issues, and CI.
